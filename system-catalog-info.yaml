@@ -1,7 +1,8 @@
 apiVersion: backstage.io/v1alpha1
 kind: System
-name: tour-of-heroes
 metadata:
-  name: tour-of-heroes
   title: tour-of-heroes
-
+  name: tour-of-heroes
+  description: Jugant amb backstage
+spec:
+  owner: user:dawncoll
